@@ -7,6 +7,7 @@ public class PracGithub {
 		int j;
 		
 		//EJERCICIO
+		System.out.println("Letra H");
 		for (i = 1; i <= 7; i++) {
 			for (j = 1; j <= 7; j++) {
 				if (i == 4 || j == 1 || j == 7)  {
@@ -17,6 +18,5 @@ public class PracGithub {
 			}
 			System.out.println("");
 		}
-		System.out.println("Letra H");
 	}
 }
